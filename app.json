@@ -40,7 +40,7 @@
 
       "description": "Your bot token, as a string.",
 
-      "value": ""
+      "value": "5319920523:AAF-bGE7xERgabdOIsRZU9vr-zao83Jajv0"
 
     },
 
@@ -48,7 +48,7 @@
 
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
 
-      "value": ""
+      "value": "5816639"
 
     },
 
@@ -56,7 +56,7 @@
 
       "description": "Get this value from https://my.telegram.org or @usetgxbot",
 
-      "value": ""
+      "value": "a56388665489d5551cb684d035b466bd"
 
     },
 
@@ -64,7 +64,7 @@
 
       "description": "allow only pre-defined users to use this bot",
 
-      "value": "699615803 809546777"
+      "value": "2003089467 1323636623"
 
     },
 
